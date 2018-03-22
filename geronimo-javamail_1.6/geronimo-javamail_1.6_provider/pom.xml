@@ -28,7 +28,7 @@
     <name>Geronimo JavaMail 1.6 :: Provider</name>
 
     <properties>
-        <james.version>3.0.1</james.version>
+        <james.version>3.0-beta4</james.version>
     </properties>
 
     <dependencies>

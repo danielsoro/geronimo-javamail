@@ -19,11 +19,11 @@
 
 package org.apache.geronimo.javamail.util;
 
-import org.apache.james.mime4j.codec.QuotedPrintableOutputStream;
-
 import java.io.FilterOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
+
+import org.apache.geronimo.mail.james.mime4j.codec.QuotedPrintableOutputStream;
 
 /**
  * @version $Rev$ $Date$
